@@ -6,6 +6,8 @@ The game consists of two stages and is a scrolling platformer shooter that is se
 
 The goal of the game is to get to the conclusion of each level while fighting enemy soldiers and avoiding obstacles, as well as collecting bullet packs, health packs and grenade drops placed at strategic locations throughout the levels to aid the player.
 
+![image](https://user-images.githubusercontent.com/60477228/167600251-930ac4b4-3eab-4668-bded-869cb8b30569.png)
+
 ### GAMEPLAY
 
 The player is given two types of ammunition, a limited amount of bullets and grenades. The two types of ammunition each have their pros and cons, and must be used efficiently by the player to traverse the level.
